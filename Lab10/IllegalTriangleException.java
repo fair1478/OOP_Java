@@ -1,4 +1,5 @@
 public class IllegalTriangleException extends Exception {
+    
     IllegalTriangleException(String st){
         super(st);
     }
